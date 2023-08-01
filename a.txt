@@ -1,0 +1,15 @@
+prisma
+
+color highlight
+dontEnv
+Editor Config
+Eslint
+Html css support
+Javascript and Typescript Nightly
+Live Server
+Material Icon theme
+Nestjs Files
+Prettier
+Prettier eslint 
+React
+Styled components
